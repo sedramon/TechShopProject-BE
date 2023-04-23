@@ -1,0 +1,15 @@
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\bin\Debug\net7.0\TechShop.Application.deps.json
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\bin\Debug\net7.0\TechShop.Application.dll
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\bin\Debug\net7.0\TechShop.Application.pdb
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\obj\Debug\net7.0\TechShop.Application.csproj.AssemblyReference.cache
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\obj\Debug\net7.0\TechShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\obj\Debug\net7.0\TechShop.Application.AssemblyInfoInputs.cache
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\obj\Debug\net7.0\TechShop.Application.AssemblyInfo.cs
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\obj\Debug\net7.0\TechShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\obj\Debug\net7.0\TechShop.Application.dll
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\obj\Debug\net7.0\refint\TechShop.Application.dll
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\obj\Debug\net7.0\TechShop.Application.pdb
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\obj\Debug\net7.0\ref\TechShop.Application.dll
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\bin\Debug\net7.0\TechShop.Domain.dll
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\bin\Debug\net7.0\TechShop.Domain.pdb
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Application\obj\Debug\net7.0\TechShop.Application.csproj.CopyComplete

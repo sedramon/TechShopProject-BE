@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TechShop.Api.props" />
+</Project>

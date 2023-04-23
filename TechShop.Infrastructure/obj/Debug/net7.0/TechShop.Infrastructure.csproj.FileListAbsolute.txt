@@ -1,0 +1,12 @@
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Infrastructure\bin\Debug\net7.0\TechShop.Infrastructure.deps.json
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Infrastructure\bin\Debug\net7.0\TechShop.Infrastructure.dll
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Infrastructure\bin\Debug\net7.0\TechShop.Infrastructure.pdb
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Infrastructure\obj\Debug\net7.0\TechShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Infrastructure\obj\Debug\net7.0\TechShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Infrastructure\obj\Debug\net7.0\TechShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Infrastructure\obj\Debug\net7.0\TechShop.Infrastructure.AssemblyInfo.cs
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Infrastructure\obj\Debug\net7.0\TechShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Infrastructure\obj\Debug\net7.0\TechShop.Infrastructure.dll
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Infrastructure\obj\Debug\net7.0\refint\TechShop.Infrastructure.dll
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Infrastructure\obj\Debug\net7.0\TechShop.Infrastructure.pdb
+C:\Users\DoubleCup\RiderProjects\TechShop\TechShop.Infrastructure\obj\Debug\net7.0\ref\TechShop.Infrastructure.dll
