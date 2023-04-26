@@ -34,10 +34,7 @@ public class CreateArticleHandler : IRequestHandler<CreateArticleCommand, Articl
         article.Model = request.ArticleDto.Model;
         article.Price = (double) request.ArticleDto.Price;
         article.Description = request.ArticleDto.Description;
-        if (request.ArticleDto.Category.ID != "")
-        {
-            article.Category = category.ID != null ? category : null;
-        }
+        article.Category = category.ID != null ? category : null;
 
         await article.SaveAsync(cancellation: cancellationToken);
 

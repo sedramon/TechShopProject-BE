@@ -6,4 +6,5 @@ public record ArticleDto(
     string? Model, 
     double? Price, 
     string? Description, 
-    CategoryDto? Category);
+    CategoryDto? Category
+    );
